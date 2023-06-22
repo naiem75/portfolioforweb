@@ -1,0 +1,27 @@
+Naiem Arafat
+Software Engineer
+
+Education:
+- Bachelor of Science in Computer Science, SUST
+
+Skills:
+- Programming languages: Java, C++, Python
+- Web development: HTML, CSS, JavaScript
+- Database management: SQL, MongoDB
+
+
+
+Projects:
+- Online Shopping Website
+  - Developed a responsive e-commerce website using HTML, CSS, JavaScript, and PHP.
+  - Implemented product listing, shopping cart functionality, and secure payment gateway integration.
+
+
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References:
+- Available upon request
+
